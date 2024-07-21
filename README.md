@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.brunofortunato.com.br/image/logo.jpg" width="500"
+  <img src="https://brunofortunato.dev/image/logo.jpg" width="500"
   alt="brunofortunato.com" />
 </p>
 <p align="center">
