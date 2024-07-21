@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
     </a>
     <a href="https://brunofortunato.dev/" alt="brunofortunato.dev">
-      <img src="https://img.shields.io/badge/BrunoFortunato.com.br-lightgrey?style=flat-square" />
+      <img src="https://img.shields.io/badge/BrunoFortunato.dev-lightgrey?style=flat-square" />
     </a>
   </p>
 
