@@ -3,7 +3,7 @@
   alt="brunofortunato.com" />
 </p>
 <p align="center">
-🚀 Javascript | Typescript | ReactJS | React Native | Angular | Html | Css | Git
+🚀 Software Engineer | Frontend Developer | Javascript | Typescript | React
 </p>
 
   <p  align="center">
